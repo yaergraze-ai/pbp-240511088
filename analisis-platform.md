@@ -2,33 +2,29 @@
 
 **Nama:** Kana Nurhana  
 **NIM:** 240511088  
-**Kelas:** TI24D  
-**Mata kuliah:** Pemrograman Berbasis Platform
+**Kelas:** TI24D
 
-## Tabel perbandingan
+## Tabel Perbandingan
 
 | Aspek | Web | Desktop | Mobile |
 |---|---|---|---|
-| Bahasa utama | HTML, CSS, JavaScript/TypeScript; backend dapat menggunakan bahasa lain. | C#, Java, C++, atau JavaScript/TypeScript sesuai framework. | Android: Kotlin/Java; iOS: Swift; juga tersedia framework lintas platform. |
-| Arsitektur | Browser sebagai client, berkomunikasi dengan server melalui HTTP/API. | Aplikasi terinstal di OS, menjalankan logika lokal dan menggunakan API OS. | Berjalan mengikuti lifecycle Android/iOS, dapat berkomunikasi dengan backend. |
-| Cara distribusi | Deploy ke server/hosting, diakses melalui browser dan URL. | Installer/paket aplikasi, situs resmi, atau app store desktop. | Google Play, App Store, atau kanal yang diizinkan platform. |
-| Keunggulan | Mudah diakses melalui browser, lintas perangkat, update terpusat. | Integrasi dengan OS dan sumber daya komputer; cocok untuk pekerjaan lokal yang intensif. | Portabel dan memanfaatkan kamera, GPS, sensor, serta notifikasi. |
-| Keterbatasan | Dibatasi izin browser; beberapa fungsi membutuhkan koneksi internet. | Variasi OS memengaruhi kompatibilitas, instalasi, dan update. | Variasi perangkat, layar, baterai, serta aturan distribusi. |
-| Contoh aplikasi | Wikipedia web, Google Docs web. | Visual Studio Code, Notepad Windows. | Google Maps Android/iOS, aplikasi kamera ponsel. |
+| Bahasa utama | HTML, CSS, JavaScript; sisi server dapat memakai bahasa lain. | C#, Java, C++, atau JavaScript, bergantung pada teknologi. | Android: Kotlin/Java; iOS: Swift. |
+| Arsitektur | Browser sebagai client, server menangani permintaan HTTP/API. | Berjalan di OS; proses dan integrasi bergantung pada framework. | Memakai komponen dan siklus hidup OS; dapat memakai backend. |
+| Cara distribusi | Deploy ke server, diakses melalui URL. | Installer, paket aplikasi, atau toko aplikasi desktop. | Android APK/AAB; iOS melalui kanal distribusi platform. |
+| Keunggulan | Akses lewat browser; pembaruan server bisa terpusat. | Memanfaatkan fitur lokal dan layanan OS. | Portabel; dapat memakai fitur/sensor perangkat. |
+| Keterbatasan | Fitur perangkat dibatasi izin browser; sebagian layanan memerlukan internet. | Kompatibilitas dan distribusi perlu disesuaikan dengan OS. | Variasi perangkat, layar, dan sumber daya. |
+| Contoh aplikasi | Wikipedia versi browser; Google Docs web. | Visual Studio Code; Notepad Windows. | Google Maps Android/iOS; aplikasi kamera. |
 
 ## Pembahasan
 
-**Web:** Browser meminta halaman dan data kepada server melalui protokol web. HTML, CSS, dan JavaScript digunakan untuk membangun pengalaman pengguna [1].
+Web menggunakan browser sebagai client yang meminta halaman dan data kepada server [1]. Aplikasi Desktop dapat menerapkan arsitektur yang berbeda-beda. Sebagai contoh, Electron memiliki main process dan renderer process [2]. Android mengenal komponen seperti Activity dan Service [3], sedangkan Swift digunakan untuk pengembangan dalam ekosistem Apple [4].
 
-**Desktop:** Aplikasi dijalankan pada komputer dan dapat mengakses kapabilitas OS. Arsitektur tergantung teknologi; Electron, misalnya, menggunakan main process dan renderer process [2].
+## Daftar Referensi
 
-**Mobile:** Aplikasi menyesuaikan komponen dan siklus hidup OS. Android menyediakan komponen aplikasi dan pengembangan dengan Kotlin/Java, sedangkan Apple mendukung Swift [3][4].
+[1] MDN Web Docs. *How the web works*. Diakses 24 Oktober 2026. https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works
 
-Perbandingan ini menjelaskan karakteristik umum. Aplikasi di ketiga platform dapat memakai backend ataupun menyediakan fungsi offline bergantung pada implementasi.
+[2] Electron. *Process Model*. Diakses 24 Oktober 2026. https://www.electronjs.org/docs/latest/tutorial/process-model
 
-## Referensi
+[3] Android Developers. *Application fundamentals*. Diakses 24 Oktober 2026. https://developer.android.com/guide/components/fundamentals
 
-1. MDN Web Docs. *How the web works*. https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works (23 Oktober 2026).
-2. Electron. *Process Model*. https://www.electronjs.org/docs/latest/tutorial/process-model (23 Oktober 2026).
-3. Android Developers. *Application fundamentals*. https://developer.android.com/guide/components/fundamentals (23 Oktober 2026).
-4. Apple Developer. *Swift*. https://developer.apple.com/documentation/swift (23 Oktober 2026).
+[4] Apple Developer. *Swift*. Diakses 24 Oktober 2026. https://developer.apple.com/documentation/swift
