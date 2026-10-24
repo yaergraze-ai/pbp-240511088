@@ -1,4 +1,4 @@
-# Refleksi Pribadi — Tugas Pertemuan 1
+# Refleksi Pembelajaran — Tugas Pertemuan 1
 
 **Nama:** Kana Nurhana  
 **NIM:** 240511088  
@@ -6,8 +6,8 @@
 
 Dari tiga platform yang dibahas, saya paling tertarik mempelajari platform Web karena hasil pekerjaan dapat dicoba langsung melalui browser. Saya ingin memahami bagaimana HTML dan CSS menyusun tampilan, JavaScript menambahkan interaksi, serta API menghubungkan antarmuka dengan layanan backend. Menurut saya, pengetahuan tersebut bisa menjadi dasar sebelum mempelajari aplikasi Desktop dan Mobile lebih mendalam.
 
-Pada tahap setup environment, tantangan terpenting adalah memastikan setiap alat dapat dipanggil dengan benar dari terminal, bukan sekadar terpasang di komputer. Saya telah menguji Git, Node.js, NPM, dan Java JDK melalui Command Prompt. Keempat perintah berhasil menampilkan nomor versi, sehingga saya memiliki bukti awal bahwa alat-alat tersebut dapat digunakan. Namun, status Visual Studio Code dan Android Studio masih perlu saya periksa secara terpisah.
+Pada tahap setup environment, tantangan penting bagi saya adalah memastikan tools dapat dikenali oleh sistem, bukan sekadar terlihat terpasang. Saya telah memeriksa Git, Node.js, NPM, dan Java JDK menggunakan Command Prompt. Saya juga menjalankan code --version untuk Visual Studio Code dan membaca informasi build Android Studio melalui product-info.json. Hasilnya, keenam tools memiliki informasi versi yang dapat didokumentasikan.
 
-Rencana saya adalah melanjutkan pemeriksaan instalasi secara bertahap, mengacu pada dokumentasi resmi, dan mencatat masalah yang benar-benar muncul. Jika ada perintah tidak dikenali, saya akan membuka terminal baru lalu memeriksa konfigurasi PATH dan lokasi instalasinya. Saya juga akan memastikan ruang penyimpanan cukup sebelum menyiapkan Android Studio. Dengan dokumentasi yang rapi, saya dapat mengulang langkah pengujian dan mengetahui bagian mana yang masih perlu diselesaikan.
+Langkah saya berikutnya adalah mencoba penggunaan tools secara langsung, terutama membuka Android Studio, memeriksa Android SDK, dan memastikan komponen yang diperlukan tersedia. Jika menemui kendala, saya akan memeriksa pesan kesalahan, mengikuti dokumentasi resmi, serta mencatat langkah penyelesaiannya. Dengan cara ini, saya dapat membedakan bukti instalasi dari kesiapan lingkungan pengembangan dan menjaga laporan tetap sesuai hasil pengujian.
 
-> **Catatan:** Draf refleksi ini harus ditinjau dan disesuaikan dengan pengalaman pribadi sebelum dikumpulkan.
+> Catatan: refleksi adalah draf; tinjau sesuai pengalaman pribadi sebelum dikumpulkan.
