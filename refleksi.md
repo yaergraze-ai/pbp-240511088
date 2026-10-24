@@ -1,11 +1,11 @@
-# Refleksi Pembelajaran — Tugas Pertemuan 1
+# Refleksi Diri — Tugas Pertemuan 1
 
 **Nama:** Kana Nurhana  
 **NIM:** 240511088  
 **Kelas:** TI24D
 
-Dari tiga platform yang dibahas, saya paling tertarik mempelajari platform Web karena hasil pekerjaan dapat dicoba langsung melalui browser. Saya ingin memahami bagaimana HTML dan CSS menyusun tampilan, JavaScript menambahkan interaksi, serta API menghubungkan antarmuka dengan layanan backend. Menurut saya, pengetahuan tersebut bisa menjadi dasar sebelum mempelajari aplikasi Desktop dan Mobile lebih mendalam.
+Ketika mempelajari perbedaan Web, Desktop, dan Mobile, saya merasa paling tertarik untuk mendalami pengembangan Web. Saya ingin bisa membuat website yang tidak hanya memiliki tampilan rapi, tetapi juga berguna dan mudah digunakan. Karena itu, saya ingin memahami HTML, CSS, dan JavaScript terlebih dahulu, kemudian belajar menghubungkan halaman dengan API dan mengelola kode melalui GitHub.
 
-Pada tahap setup environment, tantangan penting bagi saya adalah memastikan tools dapat dikenali oleh sistem, bukan sekadar terlihat terpasang. Saya telah memeriksa Git, Node.js, NPM, dan Java JDK menggunakan Command Prompt. Saya juga menjalankan code --version untuk Visual Studio Code dan membaca informasi build Android Studio melalui product-info.json. Hasilnya, keenam tools memiliki informasi versi yang dapat didokumentasikan.
+Saat mengerjakan tahap setup, saya menyadari bahwa memasang aplikasi belum tentu berarti lingkungan pengembangan langsung siap dipakai. Saya memeriksa Git, Node.js, NPM, dan Java JDK melalui CMD, lalu melanjutkan pemeriksaan versi VS Code serta informasi build Android Studio. Dari hasil yang tampil, saya memperoleh bukti bahwa keenam tools terdeteksi. Namun, saya masih perlu mencoba fitur Android Studio dan memastikan SDK-nya siap digunakan.
 
-Langkah saya berikutnya adalah mencoba penggunaan tools secara langsung, terutama membuka Android Studio, memeriksa Android SDK, dan memastikan komponen yang diperlukan tersedia. Jika menemui kendala, saya akan memeriksa pesan kesalahan, mengikuti dokumentasi resmi, serta mencatat langkah penyelesaiannya. Dengan cara ini, saya dapat membedakan bukti instalasi dari kesiapan lingkungan pengembangan dan menjaga laporan tetap sesuai hasil pengujian.
+Ke depan, saya ingin lebih terbiasa mencari penyebab masalah secara mandiri, membaca dokumentasi resmi, dan mencatat langkah perbaikannya. Saya juga berencana membuat proyek Web sederhana sebagai latihan agar materi kuliah tidak berhenti pada teori. Harapan saya, kemampuan dasar ini bisa menjadi bekal untuk mengembangkan aplikasi yang benar-benar dapat digunakan.
