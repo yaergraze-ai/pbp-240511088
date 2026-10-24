@@ -1,3 +1,6 @@
-# Bukti setup
+# Bukti setup environment
 
-Letakkan screenshot CMD asli bernama `screenshot-versi-tools.png` di folder ini. Screenshot tersedia dalam paket ZIP tugas. Jangan mengedit isi screenshot.
+- `screenshot-versi-tools.png`: Git, Node.js, NPM, Java JDK.
+- `screenshot-versi-vscode-android-studio.png`: VS Code dan build Android Studio.
+
+Keduanya merupakan screenshot CMD yang diberikan mahasiswa. Jangan mengubah isi bukti.
