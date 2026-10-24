@@ -1,4 +1,4 @@
-# Analisis Komparatif Platform Web, Desktop, dan Mobile
+# Analisis Platform Web, Desktop, dan Mobile
 
 **Nama:** Kana Nurhana  
 **NIM:** 240511088  
